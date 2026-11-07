@@ -6,15 +6,15 @@ I'm passionate about **Kubernetes**, **AI**, and **developer experience**: makin
 
 - 🔭 Focus areas: Containers · Kubernetes · IaC · CI/CD · Agentic AI Applications
 - 🌱 Exploring agentic AI platforms on Kubernetes
-- 🛠️ Building hands-on workshops with Terraform
+- 🤝 Interested in contributing to open source
 
 ### 💼 Career
 
 | Period | Company | Role |
 |---|---|---|
-| 2025.06 – Present | **Amazon Web Services** | Cloud Support Engineer (Containers, Kubernetes, IaC, CI/CD, Agentic AI) |
-| 2023.12 – 2025.06 | **o9 Solutions** | DevOps Engineer (Multi-cloud, IaC, Kubernetes, Monitoring, Big Data) |
-| 2020.03 – 2023.11 | **VMware** | Solution Engineer · Specialist Solution Engineer (App Modernization with VMware Tanzu) |
+| 2025.06 – Present | **Amazon Web Services** | Cloud Support Engineer |
+| 2023.12 – 2025.06 | **o9 Solutions** | DevOps Engineer |
+| 2020.03 – 2023.11 | **VMware** | Solution Engineer |
 
 ### 🧰 Tech Stack
 
