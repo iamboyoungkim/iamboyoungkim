@@ -4,8 +4,7 @@ Cloud Support Engineer at **Amazon Web Services**, based in South Korea 🇰🇷
 
 I'm passionate about **Kubernetes**, **AI**, and **developer experience**: making cloud-native platforms easier to build on, operate, and learn.
 
-- 🔭 Focus areas: Containers · Kubernetes · IaC · CI/CD · Agentic AI Applications
-- 🌱 Exploring agentic AI platforms on Kubernetes
+- 🔭 Focus areas: Containers · Kubernetes · IaC · CI/CD · Agentic AI
 - 🤝 Interested in contributing to open source
 
 ### 💼 Career
